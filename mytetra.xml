@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1551702073taurytteeq" name="XVI">
+   <node crypt="" id="1551702106jpx3bceqqh" name="Rabelais">
+    <node crypt="" id="1551702253ffmgcn7wfb" name="Gargantua">
+     <recordtable>
+      <record id="1551702368al910zl5rr" name="Chapitre VI - Naissance de Gargantua" author="" url="" tags="naissance , comique, scatologique, narratif" ctime="20190304162608" dir="15517023684klagjr18y" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="15517116782ksgin5qcf" name="XIX">
+   <node crypt="" id="1551711694n4nlbeots8" name="Jules Vallès">
+    <node crypt="" id="1551711715lqrv5zfg1j" name="L'enfant (1877)">
+     <recordtable>
+      <record id="1551711847rfpud4ypns" name="Ai-je été nourri par ma mère ?" author="Vallès" url="" tags="narratif, violence, mère, autobiographie, solidarité" ctime="20190304190407" dir="1551711847fr44b1gwon" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551713283yre661jw00" name="Tristan Corbière">
+    <recordtable>
+     <record id="1551715199hn4a2yz0xw" name="Rannou - stylistique du palimpseste" author="Rannou" url="https://books.openedition.org/pur/40090?lang=fr#text" tags="Corbière" ctime="20190304195959" dir="1551715199m6cgyhjnik" file="text.html"/>
+     <record id="15517153405i0bwuhky8" name="L'ironie anti-romantqiue de Corbière" author="" url="https://www.persee.fr/doc/litt_0047-4800_1983_num_51_3_2203" tags="" ctime="20190304200220" dir="1551715340yadfl8d1rn" file="text.html"/>
+     <record id="1551724124j1ogcwrt1q" name="Dico Larousse" author="" url="https://www.larousse.fr/encyclopedie/litterature/Corbi%C3%A8re/172549" tags="" ctime="20190304222844" dir="1551724124n9sg1b7ge3" file="text.html"/>
+     <record id="15517261366pfv1ff9a3" name="docs universitaires" author="" url="" tags="" ctime="20190304230216" dir="1551726136s8515hpqth" file="text.html">
+      <files>
+       <file id="1551726148f61xj6cgsz" fileName="alfiya_enikeeva.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+    <node crypt="" id="1551713297vu7z6riag0" name="Les amours jaunes (1873)">
+     <recordtable>
+      <record id="15517134175m4ndndc7k" name="le crapaud" author="" url="" tags="poésie, poète , alideur, condition du poète , lyrisme, chant, tristesse" ctime="20190304193017" dir="15517134170sm4xoxgee" file="text.html"/>
+      <record id="1551713705kfyi2i6ja4" name="La pipe" author="" url="" tags="objet , poésie , poète , condition du poète , création poétique, rire" ctime="20190304193505" dir="15517137058x5b1vs80j" file="text.html"/>
+      <record id="1551714642od09cw15ft" name="Sir Bob" author="" url="" tags="poésie, humour , dérision, auto-dérision, chien , sonnet , amour , fidélité" ctime="20190304195042" dir="1551714642c0ghwoouyk" file="text.html"/>
+      <record id="1551724800qknwadqgwk" name="Epitaphe" author="" url="" tags="épitaphe, poésie, lyrisme, lucidité, plainte , amertume, humour, antithèse,mort, auto-portrait" ctime="20190304224000" dir="1551724800bdwq6kvm5i" file="text.html"/>
+      <record id="1551725194ywe1h7sfew" name="Pauvre garçon" author="" url="" tags="poésie , humour, muse, cruaté féminine, point de vue, dérision, satire des femmes" ctime="20190304224634" dir="15517251940y8fsob9ij" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551714304l5k6o5xutr" name="Alfred de Musset">
+    <node crypt="" id="1551714323bd73y1afvc" name="Confession d'un enfant du siècle">
+     <recordtable>
+      <record id="1551714436dt6cu53w77" name="moment romantique" author="" url="" tags="récit, narratif, romantisme , amour, volupté, nuit, lune , baiser" ctime="20190304194716" dir="15517144367ks5w3zgyq" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551755209en4blqy41u" name="Guy de Maupassant">
+    <node crypt="" id="155175522646etkc7dx0" name="Bel-Ami ( 1885)">
+     <recordtable>
+      <record id="1551755744mq54gkm66h" name="Présentation roman Bel-Ami" author="" url="" tags="roman , réalisme , 1885, réussite, presse, séducteur , arriviste, roman de formation, ascension sociale , politique" ctime="20190305071544" dir="155175574466eaznfbbx" file="text.html"/>
+      <record id="1551755582pf8i8jgfo3" name="excipit - le Mariage de Bel-Ami" author="" url="" tags="excipit , réussite du personnage , église , pouvoir , religion, joie, cynisme , sensualité , foule , triomphe, héros , consécration, mariage , hypocrisie" ctime="20190305071302" dir="15517555823tguy7xghw" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551758989xr6xe9a0a5" name="Victor Hugo">
+    <node crypt="" id="1551759008768m9uxrw8" name="Les contemplations (1856)">
+     <recordtable>
+      <record id="15517592993rzs0z9xpa" name="Où vont tous ces enfants dont pas un seul ne rit ? " author="" url="" tags="enfance , registre pathétique, travail des enfants , enfance malheureuse, misère, travail, poésie , argumentation" ctime="20190305081459" dir="1551759299p4mtbcflbc" file="text.html"/>
+      <record id="1551759541m9l83vof0g" name="Elle était déchaussée, elle était décoiffée" author="" url="" tags="poésie, lyrique, nature, rencontre, rencontre amoureuse, beauté, séduction, femme , naturel" ctime="20190305081901" dir="1551759541fw6d7u8tkp" file="text.html"/>
+      <record id="1551794884ooaqarwcg2" name="Ô souvenirs ! Printemps ! Aurore !" author="" url="" tags="poésie, lyrique, enfance, famille, bonheur, enfants, souvenirs, tendresse , nostalgie, paradis perdu, maison, père" ctime="20190305180804" dir="1551794884tlpujn52pa" file="text.html"/>
+      <record id="15517952945b2iuj7iw4" name="Le mendiant" author="" url="" tags="poésie , mendiant, pauvre, humble, humilité, objet, manteau, voyant, fonction du poète" ctime="20190305181454" dir="1551795294p886984ujt" file="text.html"/>
+      <record id="155179548261k98631vh" name="Demain, dès l’aube, à l’heure où blanchit la campagne" author="" url="" tags="poésie, lyrique, deuil, souffrance, cimetière, pélerinage, intime" ctime="20190305181802" dir="1551795482t45nxdy0qa" file="text.html"/>
+      <record id="155179612019hh9cna7o" name="La fête chez Thérèse" author="" url="" tags="poésie, fête, comédie, galanterie , spectacle, déguisement, comédien" ctime="20190305182840" dir="1551796120mmxmt9369k" file="text.html"/>
+      <record id="1551813606qltt6rz0oc" name="Le poète s'en va dans les champs" author="" url="" tags="poésie, nature, poète , rêveur, fonction du poète" ctime="20190305232006" dir="1551813606nfyfazftb7" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1551759161bs7ow2xnuf" name="analyse"/>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="15517119514urv23kp3e" name="XX">
+   <node crypt="" id="1551711978ajwzayav5s" name="Colette">
+    <node crypt="" id="1551711985hq8vs0brj6" name="Sido (1930)">
+     <recordtable>
+      <record id="1551712132pouwxqtn4v" name="l'aube et l'enfant" author="" url="" tags="récit, poésie, enfance, amour maternel, aube, joie, nature, lyrique" ctime="20190304190852" dir="1551712132fupaov37ff" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551712337broktvulf0" name="Albert Cohen">
+    <node crypt="" id="1551712352bct44devdd" name="Le livre de ma mère (1954)">
+     <recordtable>
+      <record id="1551712520ht2v33hs2f" name="poésie de l'enfance" author="" url="" tags="récit, narratif, nostalgie, enfance, souvenirs, amour maternel, nostalgie, poésie, énumération, lyrique" ctime="20190304191520" dir="15517125201mulol7lle" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551712717zttwzb5kum" name="Romain Gary">
+    <node crypt="" id="1551712734gwfmrqiq1t" name="La promesse de l'aube (1960)">
+     <recordtable>
+      <record id="15517130232t79rcobaa" name="Le retard" author="" url="" tags="narratif, autobiographie, honte, gêne, amour maternel, fils , armée , guerre" ctime="20190304192343" dir="1551713023lhah45ibj4" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1551713944fumk8k5w8p" name="Paul Valéry">
+    <node crypt="" id="1551713957qprgkribg8" name="Charmes ( 1922)">
+     <recordtable>
+      <record id="15517141248ty6cfnauq" name="Les pas" author="" url="" tags="poésie, lyrique, amour, tendresse, intime , intimité, baiser" ctime="20190304194204" dir="1551714124mh78i9nm08" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
