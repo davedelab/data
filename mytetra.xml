@@ -155,7 +155,11 @@
     </node>
    </node>
    <node crypt="" id="1552108330mx7uwvtetr" name="Guillaume Apollinaire">
-    <node crypt="" id="1552108341kxxy202jug" name="Alcools ( 1913)"/>
+    <node crypt="" id="1552108341kxxy202jug" name="Alcools ( 1913)">
+     <recordtable>
+      <record id="1552108630dbexpywfv6" name="&#10;À la Santé" author="" url="" tags="poésie, prison, enfermement, fenêtre,religion , états d'âme , souffrance, ennui, temps , lenteur, angoisse, épreuve , remise en question, humour, dérision, modernité" ctime="20190309091710" dir="1552108630lyamdsnc2p" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
