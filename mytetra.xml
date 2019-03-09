@@ -49,7 +49,11 @@
       <record id="1551714436dt6cu53w77" name="moment romantique" author="" url="" tags="récit, narratif, romantisme , amour, volupté, nuit, lune , baiser" ctime="20190304194716" dir="15517144367ks5w3zgyq" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1552111095ib6cpd1uqy" name="Nouvelles poésies ( 1850)"/>
+    <node crypt="" id="1552111095ib6cpd1uqy" name="Nouvelles poésies ( 1850)">
+     <recordtable>
+      <record id="1552111235eh2m4xt9rd" name="Le mie prigioni" author="" url="" tags="poésie, autobiographie, prison, ennui, fonctions de la poésie, transfiguration, art, artiste" ctime="20190309100035" dir="1552111235jderapri7f" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1551755209en4blqy41u" name="Guy de Maupassant">
     <node crypt="" id="155175522646etkc7dx0" name="Bel-Ami ( 1885)">
@@ -165,7 +169,7 @@
    <node crypt="" id="1552108330mx7uwvtetr" name="Guillaume Apollinaire">
     <node crypt="" id="1552108341kxxy202jug" name="Alcools ( 1913)">
      <recordtable>
-      <record id="1552108630dbexpywfv6" name="&#10;À la Santé" author="" url="" tags="poésie, prison, enfermement, fenêtre,religion , états d'âme , souffrance, ennui, temps , lenteur, angoisse, épreuve , remise en question, humour, dérision, modernité" ctime="20190309091710" dir="1552108630lyamdsnc2p" file="text.html"/>
+      <record id="1552108630dbexpywfv6" name="&#10;À la Santé" author="" url="" tags="poésie, prison, enfermement, fenêtre,religion , états d'âme , souffrance, ennui, temps , lenteur, angoisse, épreuve , remise en question, humour, dérision, modernité, autobiographie" ctime="20190309091710" dir="1552108630lyamdsnc2p" file="text.html"/>
      </recordtable>
     </node>
    </node>
