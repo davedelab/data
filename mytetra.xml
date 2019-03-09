@@ -111,7 +111,11 @@
     </node>
    </node>
    <node crypt="" id="15521076766t7knexj9s" name="Emile Zola">
-    <node crypt="" id="15521076995x0yn81sk1" name="L'Asommoir ( 1876)"/>
+    <node crypt="" id="15521076995x0yn81sk1" name="L'Asommoir ( 1876)">
+     <recordtable>
+      <record id="1552107939vmiphs6d8j" name=" et le vent frais apportait une puanteur par moments, une odeur fauve de bêtes massacrées" author="" url="" tags="récit, fenêtre, angoisse, cauchemar, ouvriers, misère, masure,paris, inquiétude, regard" ctime="20190309090539" dir="1552107939pfxxbtoxa5" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="15517119514urv23kp3e" name="XX">
@@ -140,6 +144,13 @@
     <node crypt="" id="1551713957qprgkribg8" name="Charmes ( 1922)">
      <recordtable>
       <record id="15517141248ty6cfnauq" name="Les pas" author="" url="" tags="poésie, lyrique, amour, tendresse, intime , intimité, baiser" ctime="20190304194204" dir="1551714124mh78i9nm08" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1552107966slx7qxdg6x" name="Marcel Proust">
+    <node crypt="" id="1552107981n3cdo9ck8q" name="A l'ombre des jeunes filles en fleurs">
+     <recordtable>
+      <record id="1552108220qt9zasangw" name="r un village nocturne aux toits bleus de clair de lune" author="" url="" tags="récit, train, fenêtre,aube, lever de soleil, artiste, tableau, couleurs , regard, peintre, nature,voyage" ctime="20190309091020" dir="1552108220ox4r5zovr7" file="text.html"/>
      </recordtable>
     </node>
    </node>
