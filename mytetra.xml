@@ -150,9 +150,12 @@
    <node crypt="" id="1552107966slx7qxdg6x" name="Marcel Proust">
     <node crypt="" id="1552107981n3cdo9ck8q" name="A l'ombre des jeunes filles en fleurs">
      <recordtable>
-      <record id="1552108220qt9zasangw" name="r un village nocturne aux toits bleus de clair de lune" author="" url="" tags="récit, train, fenêtre,aube, lever de soleil, artiste, tableau, couleurs , regard, peintre, nature,voyage" ctime="20190309091020" dir="1552108220ox4r5zovr7" file="text.html"/>
+      <record id="1552108220qt9zasangw" name="run village nocturne aux toits bleus de clair de lune" author="" url="" tags="récit, train, fenêtre,aube, lever de soleil, artiste, tableau, couleurs , regard, peintre, nature,voyage" ctime="20190309091020" dir="1552108220ox4r5zovr7" file="text.html"/>
      </recordtable>
     </node>
+   </node>
+   <node crypt="" id="1552108330mx7uwvtetr" name="Guillaume Apollinaire">
+    <node crypt="" id="1552108341kxxy202jug" name="Alcools ( 1913)"/>
    </node>
   </node>
  </content>
