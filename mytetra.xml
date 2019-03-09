@@ -12,6 +12,7 @@
     </node>
    </node>
   </node>
+  <node crypt="" id="1552111670f4iv3v7nss" name="XVIII"/>
   <node crypt="" id="15517116782ksgin5qcf" name="XIX">
    <node crypt="" id="1551711694n4nlbeots8" name="Jules Vallès">
     <node crypt="" id="1551711715lqrv5zfg1j" name="L'enfant (1877)">
@@ -172,6 +173,11 @@
       <record id="1552108630dbexpywfv6" name="&#10;À la Santé" author="" url="" tags="poésie, prison, enfermement, fenêtre,religion , états d'âme , souffrance, ennui, temps , lenteur, angoisse, épreuve , remise en question, humour, dérision, modernité, autobiographie" ctime="20190309091710" dir="1552108630lyamdsnc2p" file="text.html"/>
      </recordtable>
     </node>
+   </node>
+  </node>
+  <node crypt="" id="15521117825igipupdhy" name="XVII">
+   <node crypt="" id="1552111794cwk60sekgk" name="La Bruyère">
+    <node crypt="" id="1552111808z001yibp2n" name="Les carctères ( 1688)"/>
    </node>
   </node>
  </content>
