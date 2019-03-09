@@ -99,11 +99,16 @@
       <record id="1552106013519g8bnbw6" name="Charles et Emma" author="" url="" tags="récit, focalisation interne, analepse, amour, joie, espoir, déception, bovarysme" ctime="20190309083333" dir="15521060138d6atnmc8n" file="text.html"/>
       <record id="1552106420q0ju65n5v2" name=" Ah ! il était parti, le seul charme de sa vie" author="" url="" tags="récit, souvenirs amoureux, amour, nostalgie , regret, focalisation interne, tristesse" ctime="20190309084020" dir="1552106420i0ik1yrghe" file="text.html"/>
       <record id="1552106809iw1hnrg3er" name="La casquette de Charles" author="" url="" tags="récit, incipit, casquette, école, humiliation,portrait, objet, ridicule , grotesque, nouveau" ctime="20190309084649" dir="1552106809dyzfu72s7q" file="text.html"/>
+      <record id="1552107605v3xeqx9s1e" name="comme un duvet d’oiseau qui tournoie dans la tempête" author="" url="" tags="récit, fenêtre, rêverie, mélancolie, nature, campagne,souvenirs, cloche, angélus, religion, sens, sensualité, sensations" ctime="20190309090005" dir="1552107605j6pdgpryrz" file="text.html"/>
      </recordtable>
     </node>
    </node>
    <node crypt="" id="1552107126nioeuyh1m5" name="Stendhal">
-    <node crypt="" id="155210714342kd0qma1u" name="La Chartreuse de Parme ( 1839)"/>
+    <node crypt="" id="155210714342kd0qma1u" name="La Chartreuse de Parme ( 1839)">
+     <recordtable>
+      <record id="1552107358yw2lxgpo1s" name="Il y avait lune ce jour-là, et au moment où Fabrice entrait dans sa prison" author="" url="" tags="récit, description, fenêtre, regard, prison, cage, sens, sensations, crépuscule, spectacle, coucher de soleil" ctime="20190309085558" dir="1552107358p2n7wnmi2t" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="15517119514urv23kp3e" name="XX">
