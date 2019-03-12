@@ -263,6 +263,14 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1552388221ipblxymsqd" name="Supervielle">
+    <node crypt="" id="1552388236uj92vo09ry" name="La fable du monde">
+     <recordtable>
+      <record id="1552388310my6xdcdid4" name="C'est vous quand vous êtes partie" author="" url="" tags="poésie,lyrisme, amour, départ, séparation,souffrance" ctime="20190312145830" dir="1552388310fivy6hoyqs" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1552388448r1jft8g8y3" name="Débarcadère (1922)"/>
+   </node>
   </node>
  </content>
 </root>
