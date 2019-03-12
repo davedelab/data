@@ -51,7 +51,11 @@
     </node>
    </node>
    <node crypt="" id="1552389059b24dp131yp" name="Corneille">
-    <node crypt="" id="1552389066veoie47bck" name="divers"/>
+    <node crypt="" id="1552389066veoie47bck" name="divers">
+     <recordtable>
+      <record id="155238920514d0abfwui" name="Marquise si mon visage &#10;A quelques traits un peu vieux" author="" url="" tags="poésie, stances, satire, carpe diem,dépit amoureux, grandeur du poète , éternité,pastiche , pointe, rire , vengeance" ctime="20190312151325" dir="1552389205nv3eoj6zsg" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="1552111670f4iv3v7nss" name="XVIII">
@@ -140,6 +144,7 @@
      <recordtable>
       <record id="1551882425brwju1usww" name=" L'ennemi" author="" url="" tags="poésie, lyrique, temps, temps qui passe , vieillesse, métaphore, jardin, automne , fleur" ctime="20190306182705" dir="15518824259i92ltueim" file="text.html"/>
       <record id="1551887891wr1bitaaqu" name="Parfum exotique" author="" url="" tags="poèsie, exotisme , lyrique, île , femme, voyage , rêverie, sensualité, parfum , mer , port" ctime="20190306195811" dir="1551887891jq6g4vjj3p" file="text.html"/>
+      <record id="1552389378xpd9rgr0gi" name="A une passante" author="" url="" tags="poésie, lyrique, rencontre, éphémère,coup de foudre, passante, niconnue" ctime="20190312151618" dir="1552389378u7l8nesb0s" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15518819387vxv8xs8i4" name="Petits poèmes en prose ( 1869)">
