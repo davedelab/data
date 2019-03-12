@@ -43,6 +43,13 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="15523885842blw9hmh4b" name="Molière">
+    <node crypt="" id="1552388596vubh33jhrx" name="L'avare (1668)">
+     <recordtable>
+      <record id="15523887974l6ippeati" name="Au voleur! au voleur! à l'assassin! au meurtrier! Justice, juste Ciel! " author="" url="" tags="théâtre, avarice, folie, obsession, monomaniaque, comique, exagération,paranoia, absurde" ctime="20190312150637" dir="155238879731zqya3xa4" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" id="1552111670f4iv3v7nss" name="XVIII">
    <node crypt="" id="1552287215g7h8pez317" name="Montesquieu">
@@ -269,7 +276,11 @@
       <record id="1552388310my6xdcdid4" name="C'est vous quand vous êtes partie" author="" url="" tags="poésie,lyrisme, amour, départ, séparation,souffrance" ctime="20190312145830" dir="1552388310fivy6hoyqs" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1552388448r1jft8g8y3" name="Débarcadère (1922)"/>
+    <node crypt="" id="1552388448r1jft8g8y3" name="Débarcadère (1922)">
+     <recordtable>
+      <record id="15523885591jz0awxyto" name="Marseille" author="" url="" tags="poésie, ville, description, apostrophe, sensations,Marseille" ctime="20190312150239" dir="1552388559oz58bky6hx" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
