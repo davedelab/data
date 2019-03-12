@@ -3,54 +3,11 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1552275527k9euux0mtv" name="généralités">
-   <recordtable>
-    <record id="1552275542157hm2gd1i" name="programme possible" author="" url="" tags="" ctime="20190311073902" dir="1552275542kp8yzvjsy2" file="text.html"/>
-   </recordtable>
-  </node>
   <node crypt="" id="1551702073taurytteeq" name="XVI">
    <node crypt="" id="1551702106jpx3bceqqh" name="Rabelais">
     <node crypt="" id="1551702253ffmgcn7wfb" name="Gargantua">
      <recordtable>
       <record id="1551702368al910zl5rr" name="Chapitre VI - Naissance de Gargantua" author="" url="" tags="naissance , comique, scatologique, narratif" ctime="20190304162608" dir="15517023684klagjr18y" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="1552144369bnpe3z8ym4" name="Joachim Du Bellay">
-    <node crypt="" id="1552144473t14hsxjikk" name="Les regrets (1558)">
-     <recordtable>
-      <record id="1552144630dswlbnc74h" name="Heureux qui, comme Ulysse, a fait un beau voyage" author="" url="" tags="poésie, lyrique, sonnet, ulysse, voyage, regret, nostalgie, mal du pays," ctime="20190309191710" dir="1552144630ifa6j743v4" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
-  <node crypt="" id="15521117825igipupdhy" name="XVII">
-   <node crypt="" id="1552111794cwk60sekgk" name="La Bruyère">
-    <node crypt="" id="1552111808z001yibp2n" name="Les caractères ( 1688)">
-     <recordtable>
-      <record id="1552111884hmwpupi76j" name=" Faut-il opter ? Je ne balance pas : je veux être peuple." author="" url="" tags="argumentatif, pauvre, riche, peuple, opposition," ctime="20190309101124" dir="15521118843jtyg8vsd3" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="1552275603a8sqho2ahk" name="Jean Racine">
-    <node crypt="" id="1552285663jusubv7zwo" name="Phèdre ( 1677)">
-     <recordtable>
-      <record id="15522858819a0hhf5c0s" name="Ariane, ma soeur, de quel amour blessée" author="" url="" tags="théâtre, aveu, secret, personnage tragique, douleur, souffrance, inceste, tragique, pathétique,trouble" ctime="20190311103121" dir="1552285881i56hqv26ke" file="text.html"/>
-      <record id="1552286477ppwinel084" name="Oui, Prince, je languis, je brûle pour Thésée." author="" url="" tags="théâtre, aveu, fureur, inceste, folie, labyrinthe , héros, colère, tragique" ctime="20190311104117" dir="1552286477eiahy5eba7" file="text.html"/>
-      <record id="1552286723hk7p1rcca7" name="Œnone, qui l’eût cru ? j’avais une rivale !" author="" url="" tags="théâtre , tragédie, tragique, amour , jalousie, culpabilité, douleur, souffrance, fureur, hérédité, surnaturel,mort" ctime="20190311104523" dir="1552286723qmzu1uunty" file="text.html"/>
-      <record id="1552287179bv1i4veg08" name="A peine nous sortions des portes de Trézène" author="" url="" tags="théâtre , récit, pathétique, tragique , héros ,épique, monstre ,monstrueux,mort,surnaturel, description, ennemi, hypotypose,bienséance, ironie tragique" ctime="20190311105259" dir="1552287179mcdfzqngl2" file="text.html"/>
-      <record id="15522882895pgazvz4j9" name="Hé bien ! Vous triomphez, et mon Fils est sans vie." author="" url="" tags="théâtre, dénouement, fin, tragique, suicide, folie, confession,poison, fatalité,accusation, culpabilité, héros tragique" ctime="20190311111129" dir="1552288289x6iltvuav7" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
-  <node crypt="" id="1552111670f4iv3v7nss" name="XVIII">
-   <node crypt="" id="1552287215g7h8pez317" name="Montesquieu">
-    <node crypt="" id="15522872784142xtraed" name="Lettres persanes (1721)">
-     <recordtable>
-      <record id="1552287541okl2xng8mt" name="C’est une chose bien extraordinaire ! Comment peut-on être Persan ?" author="" url="" tags="lettre, regard étranger , curieux , parisien , snobisme, étranger, critique, satire, satirique , naiveté,exotisme,ethnocentrisme" ctime="20190311105901" dir="1552287541eeouya31lj" file="text.html"/>
-      <record id="1552287775o1owygm0r1" name="Je trouve les caprices de la mode, chez les Français, étonnants" author="" url="" tags="lettre, satire , satirique, mode, regard étranger, roi, pouvoir, conformisme, versatile , inconstant, capricieux" ctime="20190311110255" dir="1552287775vx4jlxoneu" file="text.html"/>
-      <record id="1552293900khgq17k6e8" name="Tout le peuple s’assemble sur la fin de l’après-midi, et va jouer une espèce de scène, que j’ai entendu appeler comédie" author="" url="" tags="lettre, satire, comédie,opéra,moeurs,comique,regard étranger, satire du théâtre, classe sociale, critique,acteur" ctime="20190311124616" dir="15522939005fkkkkketv" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -165,11 +122,6 @@
       <record id="1552107358yw2lxgpo1s" name="Il y avait lune ce jour-là, et au moment où Fabrice entrait dans sa prison" author="" url="" tags="récit, description, fenêtre, regard, prison, cage, sens, sensations, crépuscule, spectacle, coucher de soleil" ctime="20190309085558" dir="1552107358p2n7wnmi2t" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1552274938wn9j1fm7gv" name="Le rouge et le noir ( 1830)">
-     <recordtable>
-      <record id="15522752322yv3pau1l2" name=" Elle fut étonnée de se trouver ainsi à la porte de sa maison avec ce jeune homme presque en chemise et si près de lui." author="" url="" tags="récit, réalisme, fascination, attirance , rencontre , focalisation, interne, portrait , surprise, regard , beauté, descriptif , diaogue" ctime="20190311073352" dir="15522752324v71r5gesx" file="text.html"/>
-     </recordtable>
-    </node>
    </node>
    <node crypt="" id="15521076766t7knexj9s" name="Emile Zola">
     <node crypt="" id="15521076995x0yn81sk1" name="L'Asommoir ( 1876)">
@@ -180,42 +132,6 @@
     <node crypt="" id="155210894394xnqshpdq" name="Germinal ( 1885)">
      <recordtable>
       <record id="1552109117lhgoq4089q" name=" Faut cracher sur rien, murmurait-il. Une bonne chope est une bonne chope" author="" url="" tags="récit,milieu ouvrier, argumentation, sagesse populaire, classes sociales, lutte des classes, justice, patron, instruction" ctime="20190309092517" dir="15521091171vx444h2r2" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="1552190097qo1hdb5v3m" name="Felix Arvers">
-    <node crypt="" id="1552190108ranmhkjr76" name="Mes heures perdues">
-     <recordtable>
-      <record id="1552190231ieqx1w5vo6" name="Mon âme a son secret, ma vie a son mystère" author="" url="" tags="poésie, sonnet, secret , amour malheureux, femme aimée, amour secret, non-dit" ctime="20190310075711" dir="1552190231g2wms0e5md" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="15521905523a0y1uti5d" name="Nerval">
-    <node crypt="" id="1552190566jzrinwiiho" name="Les chimères (1853)">
-     <recordtable>
-      <record id="1552190834mmvgu4shwf" name="Vers dorés" author="" url="" tags="poésie , sonnet, humilité, vanité, immortalité , supériorité de la nature, nature, holistique" ctime="20190310080714" dir="15521908342fefcdkzr9" file="text.html"/>
-      <record id="1552191460erww22wwql" name="EL DESDICHADO" author="" url="" tags="poésie,sonnet,romantisme,malheur du poète, solitude, femme aimée ,oxymore, mythologie,quête d'identité,Orphée, poésie,parcours initiatique , quête du passé ,identité,folie, désenchantement, mélancolie,souffrance,deuil, perte" ctime="20190310081740" dir="15521914608h1i3d9rr3" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1552191815btpgtl3bax" name="Odelettes (1853)">
-     <recordtable>
-      <record id="1552191921it5bp4uxwe" name="Le relais" author="" url="" tags="poésie,voyage, voiture,repos," ctime="20190310082521" dir="1552191921ydvbnw3pp9" file="text.html"/>
-      <record id="15521921119lm96m8yj9" name="Elle a passé, la jeune fille&#10;Vive et preste comme un oiseau " author="" url="" tags="poésie, amour , fuite du temps , inconnue, rencontre,jeune fille, bonheur manqué,lyrique,odelette,romantisme,éphémère" ctime="20190310082831" dir="15521921119eofwfd0aa" file="text.html"/>
-      <record id="15521925200vciuduj8v" name="Notre-Dame est bien vieille" author="" url="" tags="poésie, odelette, passé, cathédrale , notre-dame,ruine, romantisme ,fuite dutemps" ctime="20190310083520" dir="1552192520b2a5zgic3o" file="text.html"/>
-      <record id="155219464890wfkmrdy0" name="Les Cydalises" author="" url="" tags="poésie,odelette, jeune fille, mort, paradis,romantisme,lyrique" ctime="20190310091048" dir="1552194648pew3mif9ft" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1552192692nollnh0w2g" name="Poésies diverses">
-     <recordtable>
-      <record id="1552192792haw8dgd0js" name="Epitaphe" author="" url="" tags="poésie, sonnet,épitaphe,mort,bilan, échec" ctime="20190310083952" dir="1552192792irf8poxgx3" file="text.html"/>
-      <record id="155219490608cy96zu70" name="Les nobles d’autrefois, dont parlent les romans" author="" url="" tags="poésie, noblesse, aristocratie, valet, nostalgie" ctime="20190310091506" dir="1552194906tj5iee6mh9" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="15521932549mk9cxmo10" name="petits châteaux de Bohème (1853)">
-     <recordtable>
-      <record id="1552193146sj3bffbk3m" name="LA SÉRÉNADE" author="" url="" tags="poésie,mort, derniers instants, sérénade, chant, galanterie,traduction" ctime="20190310084737" dir="1552193146wbh2ku2wl5" file="text.html"/>
-      <record id="1552193505tedl3fl0c9" name="CHANSON GOTHIQUE" author="" url="" tags="poésie, chanson , amour, carpe diem, plaisir, légèreté" ctime="20190310085145" dir="1552193505wd181f3lp0" file="text.html"/>
-      <record id="1552193751zgpv5g6el6" name="Fantaisie" author="" url="" tags="poésie, passé, temps qui passe,nostalgie, musique,mélancolie,romantisme,imaginaire, rêverie,femme aimée, Orphée,Métempsycose" ctime="20190310085551" dir="155219375169j3ja67c0" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -260,7 +176,15 @@
     <node crypt="" id="1552108341kxxy202jug" name="Alcools ( 1913)">
      <recordtable>
       <record id="1552108630dbexpywfv6" name="&#10;À la Santé" author="" url="" tags="poésie, prison, enfermement, fenêtre,religion , états d'âme , souffrance, ennui, temps , lenteur, angoisse, épreuve , remise en question, humour, dérision, modernité, autobiographie" ctime="20190309091710" dir="1552108630lyamdsnc2p" file="text.html"/>
-      <record id="15521313352d4ekfa56t" name="Sous le pont Mirabeau" author="" url="" tags="poésie, amour ,malheureux, séparation, pont, fleuve, temps, fuite du temps" ctime="20190309153535" dir="15521313352wdvumk4oi" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="15521117825igipupdhy" name="XVII">
+   <node crypt="" id="1552111794cwk60sekgk" name="La Bruyère">
+    <node crypt="" id="1552111808z001yibp2n" name="Les caractères ( 1688)">
+     <recordtable>
+      <record id="1552111884hmwpupi76j" name=" Faut-il opter ? Je ne balance pas : je veux être peuple." author="" url="" tags="argumentatif, pauvre, riche, peuple, opposition," ctime="20190309101124" dir="15521118843jtyg8vsd3" file="text.html"/>
      </recordtable>
     </node>
    </node>
