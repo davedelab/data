@@ -50,6 +50,9 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1552389059b24dp131yp" name="Corneille">
+    <node crypt="" id="1552389066veoie47bck" name="divers"/>
+   </node>
   </node>
   <node crypt="" id="1552111670f4iv3v7nss" name="XVIII">
    <node crypt="" id="1552287215g7h8pez317" name="Montesquieu">
@@ -222,6 +225,13 @@
       <record id="1552193146sj3bffbk3m" name="LA SÉRÉNADE" author="" url="" tags="poésie,mort, derniers instants, sérénade, chant, galanterie,traduction" ctime="20190310084737" dir="1552193146wbh2ku2wl5" file="text.html"/>
       <record id="1552193505tedl3fl0c9" name="CHANSON GOTHIQUE" author="" url="" tags="poésie, chanson , amour, carpe diem, plaisir, légèreté" ctime="20190310085145" dir="1552193505wd181f3lp0" file="text.html"/>
       <record id="1552193751zgpv5g6el6" name="Fantaisie" author="" url="" tags="poésie, passé, temps qui passe,nostalgie, musique,mélancolie,romantisme,imaginaire, rêverie,femme aimée, Orphée,Métempsycose" ctime="20190310085551" dir="155219375169j3ja67c0" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1552388849m9k8gnqbwn" name="Verlaine">
+    <node crypt="" id="1552388862aqhgmjb7am" name="Sagesse (1881)">
+     <recordtable>
+      <record id="15523889798d6e8o7gfs" name="Les faux beaux jours ont lui tout le jour, ma pauvre âme,idéalisation du passé" author="" url="" tags="poésie, lyrique, âme, souvenirs," ctime="20190312150939" dir="15523889790kqve2wzj1" file="text.html"/>
      </recordtable>
     </node>
    </node>
