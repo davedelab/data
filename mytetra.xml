@@ -140,7 +140,11 @@
       <record id="1552112703xqsfi42ac6" name="Fenêtres ouvertes" author="" url="" tags="poésie, lyrisme, sens , ouîe, bruits de la ville, réveil, matin, sensations, modalité exclamative, perception, fenêtre" ctime="20190309102503" dir="1552112703p1dz1rntxi" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1554728507xfyf3ghebr" name="Les rayons et les ombres ( 1840)"/>
+    <node crypt="" id="1554728507xfyf3ghebr" name="Les rayons et les ombres ( 1840)">
+     <recordtable>
+      <record id="15547286104o1twktj63" name="La Fonction du poète" author="" url="" tags="fonction du poète , poète , rêveur , voyant" ctime="20190408170330" dir="1554728610t26y1xd621" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="155188191149tdvksuvq" name="Charles Baudelaire">
     <node crypt="" id="15518823058ymfj9svme" name="Les Fleurs du Mal ( 1857)">
