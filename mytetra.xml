@@ -187,6 +187,7 @@
       <record id="1552110920996q7pc538" name="plus close qu'un tombeau et ballottée comme un navire" author="" url="" tags="récit, fiacre, scène galante, sexe, sous-entendu, point de vue , suggestion, suggestif, amants" ctime="20190309095520" dir="1552110920mek0wm36fc" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1554734553c7zadiji8n" name="L'éducation sentimentale"/>
    </node>
    <node crypt="" id="1552107126nioeuyh1m5" name="Stendhal">
     <node crypt="" id="155210714342kd0qma1u" name="La Chartreuse de Parme ( 1839)">
@@ -256,7 +257,11 @@
     </node>
    </node>
    <node crypt="" id="1554734232t20xuutww2" name="Balzac">
-    <node crypt="" id="1554734242dq50ptsjcq" name="Le lys dans la vallée (1835)"/>
+    <node crypt="" id="1554734242dq50ptsjcq" name="Le lys dans la vallée (1835)">
+     <recordtable>
+      <record id="1554734325m12as8o5bu" name="une rencontre comique" author="" url="" tags="scène de rencontre , jeunesse , comique , coup de foudre, sensualité , désir, roman, folie, humiliation" ctime="20190408183845" dir="1554734325ttgu8477hl" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" id="15517119514urv23kp3e" name="XX">
