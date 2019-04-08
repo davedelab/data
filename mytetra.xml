@@ -58,6 +58,13 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1554734020v43ulekjb4" name="Mme De La Fayette">
+    <node crypt="" id="1554734035pkn412urc4" name="La princesse de Clèves ( 1678)">
+     <recordtable>
+      <record id="15547341695nvlt08c78" name="Le bal" author="" url="" tags="scène de rencontre , récit , focalisation , louanges , danse , couple , perfection, beauté, coup de foudre , bienséance" ctime="20190408183609" dir="1554734169s4emwvl9rq" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" id="1552111670f4iv3v7nss" name="XVIII">
    <node crypt="" id="1552287215g7h8pez317" name="Montesquieu">
@@ -247,6 +254,9 @@
       <record id="15523889798d6e8o7gfs" name="Les faux beaux jours ont lui tout le jour, ma pauvre âme,idéalisation du passé" author="" url="" tags="poésie, lyrique, âme, souvenirs," ctime="20190312150939" dir="15523889790kqve2wzj1" file="text.html"/>
      </recordtable>
     </node>
+   </node>
+   <node crypt="" id="1554734232t20xuutww2" name="Balzac">
+    <node crypt="" id="1554734242dq50ptsjcq" name="Le lys dans la vallée (1835)"/>
    </node>
   </node>
   <node crypt="" id="15517119514urv23kp3e" name="XX">
